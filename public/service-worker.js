@@ -5,8 +5,8 @@ const FILES_TO_CACHE = [
     '/db.js',
     '/index.js',
     '/manifest.webmanifest',
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png',
+    '/imagess/192x192icon.png',
+    '/images/512x512icon.png',
     'https://cdn.jsdelivr.net/npm/chart.js@2.8.0',
     'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
     'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0'
